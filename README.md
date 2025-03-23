@@ -10,3 +10,5 @@ Anbindung einer MongoDB Datenbank
 Integration von Mongoose
 Erstellung Schema Guestbook
 Joi Schema Validation auf API-Level
+
+Transferarbeit TEKO Luzern
