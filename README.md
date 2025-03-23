@@ -1,4 +1,4 @@
-# Produktverwaltungs API
+# Gästebuch API
 
 ## Bestandteile
 
@@ -8,5 +8,5 @@ Product (create, read, update, delete)
 
 Anbindung einer MongoDB Datenbank
 Integration von Mongoose
-Erstellung Schema Product
+Erstellung Schema Guestbook
 Joi Schema Validation auf API-Level
